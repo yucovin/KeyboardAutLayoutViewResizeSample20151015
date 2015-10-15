@@ -11,5 +11,6 @@ iOSアプリのためのミニコードサンプル
 ## 構成
 
 ## メモφ（．．）
-textViewのキーボードをしまう操作はkeyboardDismissMode利用
+* textViewのキーボードをしまう操作はkeyboardDismissMode利用
 （iOS7~：UIScrollViewにkeyboardDismissModeプロパティ）
+* guardはoptional binding複数OK
