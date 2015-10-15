@@ -5,6 +5,9 @@
 iOSアプリのためのミニコードサンプル
 
 ## ポイント
-
+* ConstraintをOutletで繋ぐ
+* layoutIfNeeded()
 
 ## 構成
+
+## メモφ（．．）
